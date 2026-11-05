@@ -30,3 +30,7 @@ cidr-plan --supernet 10.42.0.0/16 --spec network.yaml --format hcl --out cidrs.t
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [subnetcalc](https://github.com/moveeeax/subnetcalc/issues/3).
